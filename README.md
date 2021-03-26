@@ -11,7 +11,7 @@ Ccылка не деплой [https://ponev86.github.io/sibdev/beco/](https://po
 ### Установка
  - В локальной папке вызываем `git clone git@github.com:ponev86/sibdev.git`
  - Заходим в папку `cd sibdev`
- - Выбираем ветку `git checkout beco` и переходим в директорию `cd beco`
+ - Выбираем ветку `git checkout beco-layout` и переходим в директорию `cd beco-layout`
  - `npm install` -> `npm run start` - для запуска, `npm run build` - для сборки проекта
 
 
