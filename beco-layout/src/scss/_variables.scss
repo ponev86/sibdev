@@ -1,0 +1,20 @@
+:root {
+  --nav-bg: #F3F4F9;
+  --header-bg: #fff;
+  --content-bg: #FAFAFA;
+
+  --nav-link: #333;
+  --nav-link-active: #34ABE0;
+  
+  --coupon-active: #DF212D;
+  
+  --grid-margin-top: 201px;
+  
+  @media (max-width: 1200px) {
+    --grid-margin-top: 175px;
+  }
+
+  @media (max-width: 768px) {
+    --grid-margin-top: 169px;
+  }
+}
